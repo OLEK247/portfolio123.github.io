@@ -1,0 +1,60 @@
+.ramka {
+    border: 10px solid black;
+    margin: 40px;
+    padding: 20px;
+    background: #6c973b;
+    text-align: center;
+}
+.obramowanie {
+    border: 5px solid black;
+    border-radius: 10px;
+}
+body {
+    background-color: #6c973b;
+}
+header {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+a {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.linki {
+    text-align: center;
+    margin: 20px 0;
+}
+.linki a {
+    display: inline-block;
+    margin: 0 10px;
+}
+p {
+    font-size: 20px;
+}
+audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+.kontakt-center {
+    text-align: center;
+    margin: 0 auto;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #000;
+    margin-left: 20px;
+    margin-right: 20px;
+}
